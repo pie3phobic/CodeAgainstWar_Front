@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ![image](https://user-images.githubusercontent.com/115817261/222915620-0de4c18c-2c4d-466a-8961-a7a2d921f60d.png)
+![image](https://user-images.githubusercontent.com/115817261/222915702-a18cae73-8fa4-49f5-941a-c622900a51c9.png)
+
 
 ## Getting Started
 
